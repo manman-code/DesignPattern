@@ -1,0 +1,14 @@
+F:\projects\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+F:\projects\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+F:\projects\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+F:\projects\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+F:\projects\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+F:\projects\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+F:\projects\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.AssemblyReference.cache
+F:\projects\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+F:\projects\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+F:\projects\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+F:\projects\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+F:\projects\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+F:\projects\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
